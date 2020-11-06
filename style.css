@@ -3,3 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body {
+    margin: 50px
+}
+
+.back {
+    background-image: url('https://lh3.googleusercontent.com/proxy/DISYu-npERFkrVhs4M5Wn30H9R6pfduOr72tz_qzE_QZs1YnquolWFZWI9pEJ33nEGjSZGyArBFNJlHdGviMBd9K1WimfVp48_bQ2mL3kOti-9nb5GrscDtFW6YxiMkUAVPPk5KHRA');
+    width: 300px;
+    height: 200px;
+}
